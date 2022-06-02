@@ -1,4 +1,4 @@
-# [rsschool-cv](https://Ancr33z.github.io/rsschool-cv/)
+# rsschool-cv
 # Nikita borisov
 # Contact information
  - Phone: +375447466091
