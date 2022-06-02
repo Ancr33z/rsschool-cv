@@ -8,11 +8,13 @@
 
 
 
+
 # About Me
 I'm 17 years old. novice front-end developer with minimal knowledge. I came here to gain knowledge in front-end development.
 # Skills
 - HTML basics
 - C++ basics 
+
 
 
 
