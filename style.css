@@ -1,1 +1,114 @@
-11
+.body{
+   background-color: rgba(2, 1, 1, 0.87);
+   color: #fff;
+}
+
+
+.column {
+padding: none;
+margin: none;
+}
+
+.several-column {
+   display: flex;
+   justify-content: center;
+}
+
+.header{
+   text-align: center;
+}
+
+.img-header{
+   border-radius: 90px;
+   box-shadow: 0 0 10px #000000;
+}
+
+.main{
+}
+
+.first-column {
+
+
+margin: 5px;
+
+}
+.contact-info {
+   
+}
+.sub-header {   
+   font-size: 24px;
+   color: #ffffff;
+   padding: 0px 5px 0px;
+   background-color: rgb(154, 154, 180);
+   border-radius:15px; 
+   box-shadow: 0 0 10px #ffffff;
+}
+
+.second-column {
+   margin: 5px;
+   width: 700px;
+}
+
+.skills {
+
+}
+
+.about-me{
+
+}
+
+.education {
+
+}
+.languages {
+
+}
+
+.footer{
+   display: flex;
+   text-align: center;
+   justify-content: space-around;
+   position: relative;
+   margin-left: auto;
+   margin-right: auto;
+   width: 72em;
+}
+
+.footer-github{
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+}
+
+.image{
+
+}
+
+.footer-github{
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+}
+
+.footer-rsschool{
+   text-align: right;
+   align-items: right;
+}
+
+
+a {
+   text-decoration: none;
+   background-image: linear-gradient(rgb(108, 25, 146) ,rgb(108, 25, 146));
+   background-position: 0% 100%;
+   background-repeat: no-repeat;
+   background-size: 0% 2px;
+   transition: background-size .3s;
+}
+
+a:hover {
+   background-size: 100% 2px;
+}
+p{
+   font-size: 22px;
+   font-family: Arial, Helvetica, sans-serif;
+}
