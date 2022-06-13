@@ -1,24 +1,28 @@
+.body{
+   background-color: rgba(52, 42, 145, 0.555);
+}
+
+
 .column {
-background-color: rgba(80, 26, 131, 0.288);
+padding: none;
+margin: none;
 }
 
 .several-column {
- box-shadow: #ffffff 5px;
    display: flex;
    justify-content: center;
 }
 
 .header{
    text-align: center;
-   
 }
 
 .img-header{
    border-radius: 90px;
+   box-shadow: 0 0 10px #2b0375;
 }
 
 .main{
-
 }
 
 .first-column {
@@ -29,14 +33,14 @@ margin: 5px;
 }
 .contact-info {
    
-
 }
 .sub-header {   
    font-size: 24px;
    color: #ffffff;
-
+   padding: 0px 5px 0px;
    background-color: rgb(154, 154, 180);
-
+   border-radius:15px; 
+   box-shadow: 0 0 10px #2b0375;
 }
 
 .second-column {
@@ -45,22 +49,20 @@ margin: 5px;
 }
 
 .skills {
-   
-   box-shadow: #e90000 5px;
 
 }
 
 .about-me{
 
-
 }
-.education {
 
+.education {
 
 }
 .languages {
 
 }
+
 .footer{
    display: flex;
    text-align: center;
@@ -72,7 +74,6 @@ margin: 5px;
 }
 
 .footer-github{
-
    display: flex;
    flex-direction: row;
    align-items: center;
@@ -83,7 +84,6 @@ margin: 5px;
 }
 
 .footer-github{
-
    display: flex;
    flex-direction: row;
    align-items: center;
@@ -97,7 +97,7 @@ margin: 5px;
 
 a {
    text-decoration: none;
-   background-image: linear-gradient(currentColor, currentColor);
+   background-image: linear-gradient(rgb(108, 25, 146) ,rgb(108, 25, 146));
    background-position: 0% 100%;
    background-repeat: no-repeat;
    background-size: 0% 2px;
