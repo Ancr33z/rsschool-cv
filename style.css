@@ -1,5 +1,6 @@
 .body{
-   background-color: rgba(52, 42, 145, 0.555);
+   background-color: rgba(2, 1, 1, 0.87);
+   color: #fff;
 }
 
 
@@ -19,7 +20,7 @@ margin: none;
 
 .img-header{
    border-radius: 90px;
-   box-shadow: 0 0 10px #2b0375;
+   box-shadow: 0 0 10px #000000;
 }
 
 .main{
@@ -40,7 +41,7 @@ margin: 5px;
    padding: 0px 5px 0px;
    background-color: rgb(154, 154, 180);
    border-radius:15px; 
-   box-shadow: 0 0 10px #2b0375;
+   box-shadow: 0 0 10px #ffffff;
 }
 
 .second-column {
