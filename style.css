@@ -1,1 +1,113 @@
-11
+.column {
+background-color: rgba(80, 26, 131, 0.288);
+}
+
+.several-column {
+ box-shadow: #ffffff 5px;
+   display: flex;
+   justify-content: center;
+}
+
+.header{
+   text-align: center;
+   
+}
+
+.img-header{
+   border-radius: 90px;
+}
+
+.main{
+
+}
+
+.first-column {
+
+
+margin: 5px;
+
+}
+.contact-info {
+   
+
+}
+.sub-header {   
+   font-size: 24px;
+   color: #ffffff;
+
+   background-color: rgb(154, 154, 180);
+
+}
+
+.second-column {
+   margin: 5px;
+   width: 700px;
+}
+
+.skills {
+   
+   box-shadow: #e90000 5px;
+
+}
+
+.about-me{
+
+
+}
+.education {
+
+
+}
+.languages {
+
+}
+.footer{
+   display: flex;
+   text-align: center;
+   justify-content: space-around;
+   position: relative;
+   margin-left: auto;
+   margin-right: auto;
+   width: 72em;
+}
+
+.footer-github{
+
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+}
+
+.image{
+
+}
+
+.footer-github{
+
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+}
+
+.footer-rsschool{
+   text-align: right;
+   align-items: right;
+}
+
+
+a {
+   text-decoration: none;
+   background-image: linear-gradient(currentColor, currentColor);
+   background-position: 0% 100%;
+   background-repeat: no-repeat;
+   background-size: 0% 2px;
+   transition: background-size .3s;
+}
+
+a:hover {
+   background-size: 100% 2px;
+}
+p{
+   font-size: 22px;
+   font-family: Arial, Helvetica, sans-serif;
+}
