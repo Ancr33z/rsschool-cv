@@ -39,7 +39,7 @@ margin: 5px;
    font-size: 24px;
    color: #ffffff;
    padding: 0px 5px 0px;
-   background-color: rgb(154, 154, 180, 0.596);
+   background-color: rgba(154, 154, 180, 0.596);
    border-radius:15px; 
    box-shadow: 0 0 10px #ffffff8f;
 }
